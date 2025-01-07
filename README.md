@@ -34,5 +34,5 @@ This repository contains R scripts and data files for:
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/Spatial-Thinning-and-SDM.git
+   git clone https://github.com/santoshkumarrana/ensemble-Species-Distribution-Modeling.git
 
