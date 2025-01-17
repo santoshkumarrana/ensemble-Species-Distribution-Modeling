@@ -18,7 +18,7 @@ Temperature and precipitation during warmer quarters largely influenced grasslan
 Leveraging an understanding of species-climate relationships, this research emphasizes the importance of quantifying connectivity and protected status across aggregated hotspots suitable climate for restoration and conservation. Identifying these hotspots now and into the future can be used to prioritize restoration efforts, ensuring long-term maintenance of functional ecosystems across grassland communities.
 
 Keywords: Biomod2, climate-smart, grassland prairies, range shift, resilient & connected network, restoration 
-
+Accepted for Biological Conservation
 
 
 
